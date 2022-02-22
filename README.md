@@ -8,11 +8,16 @@ Face detection using MTCNN library and drawing a rectangle on every face, <br> t
 
 ## About the Dataset
 #### Data Source
-I used the dataset from here:
-https://github.com/laxmimerit/male-female-face-dataset
+I've used 2 datasets:
+https://www.kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba
+https://www.kaggle.com/cashutosh/gender-classification-dataset
 
 #### Dataset Information
-This is a small dataset contains 10 different clothing types (dress, hat, longsleeve, outwear, pants, shirt, shoes, shorts, skirt, t-shirt).
+The first dataset contains over 200K images of males and females without over cropping faces
+![1st dataset example](https://user-images.githubusercontent.com/83673888/155203290-8fb54605-0bc0-4605-9f23-84225a9475e4.jpg)
+The second dataset contatins over 47K images of males and females with over cropped faces
+![2nd dataset example]()
+
 
 
 
