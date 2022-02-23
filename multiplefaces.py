@@ -8,7 +8,7 @@ from matplotlib.patches import Rectangle
 from PIL import Image# to read & resize the image 
 
 #declaring variables
-size = 249 #224
+size = 249 
 target_size = (size,size)
 crop_img = []
 coords = [] #coordinates of the rectangle
