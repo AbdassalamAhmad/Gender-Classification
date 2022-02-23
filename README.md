@@ -9,14 +9,14 @@ Face detection using MTCNN library and drawing a rectangle on every face, <br> t
 ## About the Dataset
 #### Data Source
 I've used 2 datasets:
-https://www.kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba
-https://www.kaggle.com/cashutosh/gender-classification-dataset
+* https://www.kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba
+* https://www.kaggle.com/cashutosh/gender-classification-dataset
 
 #### Dataset Information
-The first dataset contains over 200K images of males and females without over cropping faces
-![1st dataset example](https://user-images.githubusercontent.com/83673888/155203290-8fb54605-0bc0-4605-9f23-84225a9475e4.jpg)
-The second dataset contatins over 47K images of males and females with over cropped faces
-![2nd dataset example]()
+The first dataset contains over 200K images of males and females without over cropping faces<br>
+![1st dataset example](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/1st.jpg)<br>
+The second dataset contatins over 47K images of males and females with over cropped faces<br>
+![2nd dataset example](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/2nd.jpg)<br>
 
 
 
