@@ -1,4 +1,5 @@
-from mtcnn.mtcnn import MTCNN
+from mtcnn import MTCNN
+import cv2
 import streamlit as st
 
 def main():
