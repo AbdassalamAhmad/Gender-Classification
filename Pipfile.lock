@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "dd2f3bacff8215b151d01711855cf0b2bd9bdd6419a82110d188c12883f8443e"
+            "sha256": "3754619ab3d1c0a3f27189126ecd09b646f8c484dba148958789a644c957c03d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -804,7 +804,7 @@
                 "sha256:badca914580eb46385e7f7e4e426fea6de0a37b9e06bec252e481ae7ec287082",
                 "sha256:d76a26c5118c4d96e264acc9e3242d72e1a2b92e739807b3b69d8d47684b6677"
             ],
-            "markers": "python_version >= '3.8'",
+            "markers": "python_version >= '3.10'",
             "version": "==1.22.2"
         },
         "oauthlib": {
@@ -825,7 +825,7 @@
                 "sha256:ac92e743e22681f30001942d78512c1e39bce53dbffc504e5645fdc45c0f2c47",
                 "sha256:c463d2276d8662b972d20ca9644702188507de200ca5405b89e1fe71c5c99989"
             ],
-            "markers": "python_version >= '3.6'",
+            "index": "pypi",
             "version": "==4.5.5.62"
         },
         "opt-einsum": {
