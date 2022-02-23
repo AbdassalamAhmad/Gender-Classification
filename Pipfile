@@ -9,6 +9,7 @@ tensorflow = "*"
 pillow = "*"
 matplotlib = "*"
 mtcnn = "*"
+opencv-python = "*"
 
 [dev-packages]
 
