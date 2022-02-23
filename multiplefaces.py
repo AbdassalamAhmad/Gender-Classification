@@ -1,7 +1,6 @@
 import tensorflow as tf
 #from tensorflow import keras
-#import cv2
-#from mtcnn import MTCNN
+from mtcnn import MTCNN
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
 import streamlit as st
 from matplotlib import pyplot
