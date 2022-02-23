@@ -10,14 +10,9 @@ packaging==21.3
 pandas==1.4.1
 Pillow==9.0.1
 pipenv==2022.1.8
-python-dateutil==2.8.2
 streamlit==1.5.1
 tensorboard==2.8.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.8.0
 tensorflow-io-gcs-filesystem==0.24.0
-tf-estimator-nightly==2.8.0.dev2021122109
-virtualenv==20.13.1
-virtualenv-clone==0.5.7
-zipp==3.7.0
