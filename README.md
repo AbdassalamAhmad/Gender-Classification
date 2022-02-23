@@ -13,7 +13,7 @@ https://www.kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba
 https://www.kaggle.com/cashutosh/gender-classification-dataset
 
 #### Dataset Information
-The first dataset contains over 200K images of males and females without over cropping faces
+The first dataset contains over 200K images of males and females without over cropping faces<br>
 ![1st dataset example](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/1st.jpg)
 The second dataset contatins over 47K images of males and females with over cropped faces
 ![2nd dataset example](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/2nd.jpg)
