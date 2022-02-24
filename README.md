@@ -47,16 +47,18 @@ The second dataset contains over 200K images of males and females without over c
 
 ## How to reproduce this model
 1. clone this repo to get all the code and pre-trained model.
-2. download the 2 datasets from here [1st](https://www.kaggle.com/cashutosh/gender-classification-dataset/download) and [2nd](https://www.kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba/download), **OR** you can use the notebook i edited on kaggle from [here](https://www.kaggle.com/abdassalamahmad/gender-classification-94) and it will automatically download these two datasets
-
-
-
-
-
-
-
-
-
+2. download the 2 datasets from here [1st](https://www.kaggle.com/cashutosh/gender-classification-dataset/download) and [2nd](https://www.kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba/download), **OR** you can use the notebook I edited on kaggle from [here](https://www.kaggle.com/abdassalamahmad/gender-classification-94) and it will automatically download these two datasets.
+3. make sure you are on the cloned repo folder, then run this command to install all requirements.
+```py
+pip install -r requirements.txt
+```
+4. (optional) you can open the [training file](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/gender_classification_training_94%25.ipynb) and retrain for longer time to get better accuracy or you can explore the dataset. 
+5. open your terminal and cd to project folder and run this command to run the **detection and classification program** locally
+```py
+streamlit run multiplefaces.py
+```
+6. Now, you can test the model, you can take photos from your device camera or upload a picture from your device.<br>
+then the prgram will output a picture with the detected faces (**blue for males, red for females**) and the count of faces in the picture.
 
 
 ## Resources and Note
