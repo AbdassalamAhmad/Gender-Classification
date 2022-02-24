@@ -30,7 +30,7 @@ The second dataset contains over 200K images of males and females without over c
 * Evalutaing the model, Aciheved 94% accuracy.
 
 
-2. [multiplefaces.py](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/multiplefaces.py) : **predict gender of every face detected.**
+2. [multiplefaces.py](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/multiplefaces.py) : **Predict gender of every face detected.**
 * Used MTCNN library to detect faces.
 * Used matplotlib to draw a blue rectangle on every male face and red one on every female face.
 * Get the cropped face and feed it to the Xception pre-trained model to predict the gender.
@@ -38,7 +38,9 @@ The second dataset contains over 200K images of males and females without over c
 * It deploy the trained model to streamlit cloud.
 * You can test the model after depoyment to streamlit directly from your phone/laptop camera or from any picture stored on your device. 
 
-3. hgjadj
+3. [xception_v5_03_0.939.h5](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/xception_v5_03_0.939.h5) : **Best model from training saved in this binary format to load it easily.**
+4. [packages.txt](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/packages.txt) : **To handle an error when deploying to streamlit**
+5. [requirements.txt](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/requirements.txt) : **Virtual environment setup** 
 
 
 
