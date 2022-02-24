@@ -45,7 +45,9 @@ The second dataset contains over 200K images of males and females without over c
 4. [requirements.txt](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/requirements.txt) : **Virtual environment setup** 
 5. [packages.txt](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/packages.txt) : **To handle an error when deploying to streamlit**
 
-## 
+## How to reproduce this model
+1. clone this repo to get all the code and pre-trained model.
+2. download the 2 datasets from here [1st](https://www.kaggle.com/cashutosh/gender-classification-dataset/download) and [2nd](https://www.kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba/download), **OR** you can use the notebook i edited on kaggle from [here](https://www.kaggle.com/abdassalamahmad/gender-classification-94) and it will automatically download these two datasets
 
 
 
