@@ -14,8 +14,8 @@ Try the model yourself from [here](https://share.streamlit.io/abdassalamahmad/ge
 ## About the Dataset
 #### Data Source
 I've used 2 datasets:
-* https://www.kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba
 * https://www.kaggle.com/cashutosh/gender-classification-dataset
+* https://www.kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba
 
 #### Dataset Information
 The first dataset contatins over 47K images of males and females with over cropped faces<br>
