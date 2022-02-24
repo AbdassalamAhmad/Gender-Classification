@@ -34,9 +34,9 @@ The second dataset contains over 200K images of males and females without over c
 * Used MTCNN library to detect faces.
 * Used matplotlib to draw a blue rectangle on every male face and red one on every female face.
 * Get the cropped face and feed it to the Xception pre-trained model to predict the gender.
-* Count the number of male and female faces in the picture
+* **Count the number of male and female faces in the picture.**
 * It deploy the trained model to streamlit cloud.
-* you can test the model after depoyment to streamlit directly from your phone/laptop camera or from any picture stored on your device. 
+* You can test the model after depoyment to streamlit directly from your phone/laptop camera or from any picture stored on your device. 
 
 3. hgjadj
 
