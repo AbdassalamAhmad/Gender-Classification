@@ -18,11 +18,12 @@ predictions = []
 result = []
 
 #Load the model
-@st.cache()
+@st.cache
 def load_model():
-  return tf.keras.models.load_model("xception_v5_03_0.939.h5")
-  
+    model = tf.keras.models.load_model("xception_v5_03_0.939.h5")
+    return model
 model = load_model()
+
 def main():
     st.title("Gender Classification")
     st.sidebar.title("What to do")
