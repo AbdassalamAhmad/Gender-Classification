@@ -1,4 +1,4 @@
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/abdassalamahmad/predicting-clothing-types/main/streamlit_DLapp.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/abdassalamahmad/gender-classification/main/multiplefaces.py)
 
 # Face-Detection & Gender-Classification
 Face detection using MTCNN library by drawing a rectangle on every face, <br> then running Xception pre-trained model on that face to classify the gender.
