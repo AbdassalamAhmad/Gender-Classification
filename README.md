@@ -25,7 +25,7 @@ The second dataset contains over 200K images of males and females without over c
 
 
 ## Short Description of the Files
-1. [gender_classification_training_94%25.ipynb](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/gender_classification_training_94%25.ipynb) : **Training the model on two different datasets to get the best results.**
+1. [gender_classification_training_94%.ipynb](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/gender_classification_training_94%25.ipynb) : **Training the model on two different datasets to get the best results.**
 * Used transfer learning to get Xception model pretrained on Imagnet.
 * Freeze its CNN layers and re-train the dense layers.
 * Used callbacks to save the best model.
