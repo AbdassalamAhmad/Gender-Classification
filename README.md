@@ -39,8 +39,8 @@ The second dataset contains over 200K images of males and females without over c
 * You can test the model after depoyment to streamlit directly from your phone/laptop camera or from any picture stored on your device. 
 
 3. [xception_v5_03_0.939.h5](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/xception_v5_03_0.939.h5) : **Best model from training saved in this binary format to load it easily.**
-4. [packages.txt](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/packages.txt) : **To handle an error when deploying to streamlit**
-5. [requirements.txt](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/requirements.txt) : **Virtual environment setup** 
+4. [requirements.txt](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/requirements.txt) : **Virtual environment setup** 
+5. [packages.txt](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/packages.txt) : **To handle an error when deploying to streamlit**
 
 
 
