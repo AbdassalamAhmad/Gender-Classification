@@ -8,7 +8,7 @@ You can use it directly from your camera or from any picture stored on your devi
 ![Model Demo](https://github.com/AbdassalamAhmad/Predicting-Clothing-Types/blob/main/predicting-clothing-types.gif)
 add video here
 
-Try the model yourself from [here](https://share.streamlit.io/abdassalamahmad/gender-classification/main/multiplefaces.py)
+**Try the model yourself from [here](https://share.streamlit.io/abdassalamahmad/gender-classification/main/multiplefaces.py)**
 
 
 ## About the Dataset
