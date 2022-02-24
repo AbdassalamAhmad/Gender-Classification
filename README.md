@@ -2,10 +2,14 @@
 
 # Face-Detection & Gender-Classification
 Face detection using MTCNN library by drawing a rectangle on every face, <br> then running Xception pre-trained model on that face to classify the gender.<br>
-You can use it directly from your camera or from any picture stored on your device.
+You can use it directly from your camera or from any picture stored on your device **by clicking the streamlit badge in the top.**
 
 ## Model Demo
 ![Model Demo](https://github.com/AbdassalamAhmad/Predicting-Clothing-Types/blob/main/predicting-clothing-types.gif)
+add video here
+
+Try the model yourself from [here](https://share.streamlit.io/abdassalamahmad/gender-classification/main/multiplefaces.py)
+
 
 ## About the Dataset
 #### Data Source
@@ -42,8 +46,7 @@ The second dataset contains over 200K images of males and females without over c
 4. [requirements.txt](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/requirements.txt) : **Virtual environment setup** 
 5. [packages.txt](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/packages.txt) : **To handle an error when deploying to streamlit**
 
-
-
+## 
 
 
 
