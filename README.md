@@ -30,7 +30,7 @@ The second dataset contains over 200K images of males and females without over c
 * Freeze its CNN layers and re-train the dense layers.
 * Used callbacks to save the best model.
 * Did some data augmentation to prevent overfitting and generalize the model.
-* Evalutaing the model, Achived 94% accuracy.
+* Evalutaing the model, Achieved 94% accuracy.
 
 
 2. [multiplefaces.py](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/multiplefaces.py) : **Predict gender of every face detected.**
