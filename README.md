@@ -29,13 +29,13 @@ The second dataset contains over 200K images of males and females without over c
 * Used transfer learning to get Xception model pretrained on Imagnet.
 * Freeze its CNN layers and re-train the dense layers.
 * Used callbacks to save the best model.
-* Did some data augmentation to prevent overfitting and generalize our model.
-* Evalutaing the model, Aciheved 94% accuracy.
+* Did some data augmentation to prevent overfitting and generalize the model.
+* Evalutaing the model, Achived 94% accuracy.
 
 
 2. [multiplefaces.py](https://github.com/AbdassalamAhmad/Gender-Classification/blob/main/multiplefaces.py) : **Predict gender of every face detected.**
 * Used MTCNN library to detect faces.
-* Used matplotlib to draw a blue rectangle on every male face and red one on every female face.
+* Used matplotlib to draw a blue rectangle on male faces and red one on female faces.
 * Get the cropped face and feed it to the Xception pre-trained model to predict the gender.
 * **Count the number of male and female faces in the picture.**
 * It deploy the trained model to streamlit cloud.
@@ -47,7 +47,7 @@ The second dataset contains over 200K images of males and females without over c
 
 ## How to reproduce this model
 1. clone this repo to get all the code and pre-trained model.
-2. download the 2 datasets from here [1st](https://www.kaggle.com/cashutosh/gender-classification-dataset/download) and [2nd](https://www.kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba/download), **OR** you can use the notebook I edited on kaggle from [here](https://www.kaggle.com/abdassalamahmad/gender-classification-94) and it will automatically download these two datasets.
+2. (optional if you want to retrain the model) download the 2 datasets from here [1st](https://www.kaggle.com/cashutosh/gender-classification-dataset/download) and [2nd](https://www.kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba/download), **OR** you can use the notebook I edited on kaggle from [here](https://www.kaggle.com/abdassalamahmad/gender-classification-94) and it will automatically download these two datasets.
 3. make sure you are on the cloned repo folder, then run this command to install all requirements.
 ```py
 pip install -r requirements.txt
