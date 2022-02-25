@@ -7,7 +7,7 @@ You can use it directly from your camera or from any picture stored on your devi
 ## Model Demo
 ![Model Demo](https://github.com/AbdassalamAhmad/Predicting-Clothing-Types/blob/main/predicting-clothing-types.gif)<br>
 [Video Demo](https://user-images.githubusercontent.com/83673888/155726041-127abb61-61e3-43a7-9c2f-9902fdebeafc.mp4)<br>
-
+https://user-images.githubusercontent.com/83673888/155726041-127abb61-61e3-43a7-9c2f-9902fdebeafc.mp4
 
 **Try the model yourself from [here](https://share.streamlit.io/abdassalamahmad/gender-classification/main/multiplefaces.py)**
 
