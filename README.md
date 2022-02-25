@@ -5,8 +5,10 @@ Face detection using MTCNN library by drawing a rectangle on every face, <br> th
 You can use it directly from your camera or from any picture stored on your device **by clicking the streamlit badge in the top.**
 
 ## Model Demo
+
 https://user-images.githubusercontent.com/83673888/155728628-63d45522-2f6e-4e01-8595-3a4214885a34.mp4
-**Try the model yourself from [here](https://share.streamlit.io/abdassalamahmad/gender-classification/main/multiplefaces.py)**
+
+<br>**Try the model yourself from [here](https://share.streamlit.io/abdassalamahmad/gender-classification/main/multiplefaces.py)**
 
 ## About the Dataset
 #### Data Source
