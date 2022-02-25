@@ -5,8 +5,8 @@ Face detection using MTCNN library by drawing a rectangle on every face, <br> th
 You can use it directly from your camera or from any picture stored on your device **by clicking the streamlit badge in the top.**
 
 ## Model Demo
-![Model Demo](https://github.com/AbdassalamAhmad/Predicting-Clothing-Types/blob/main/predicting-clothing-types.gif)
-add video here
+![Model Demo](https://github.com/AbdassalamAhmad/Predicting-Clothing-Types/blob/main/predicting-clothing-types.gif)<br>
+[Video Demo](https://vimeo.com/681769978/b883bf25bc)<br>
 
 **Try the model yourself from [here](https://share.streamlit.io/abdassalamahmad/gender-classification/main/multiplefaces.py)**
 
